@@ -1,6 +1,3 @@
-G52CPP coursework
-=================
-
 This readme includes instructions for various different platforms since you suggested that you may want to use different platforms. 
 Please note that we can support you on Windows, e.g. helping out if there is some configuration issue, but you should only use a different platform if you think you can do so without needing our support for it!
 i.e. the different options are provided for your convenience, at your own risk.
